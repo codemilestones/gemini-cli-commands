@@ -1,3 +1,6 @@
+<img width="1568" height="672" alt="GitHub GEMINI CLI" src="https://github.com/user-attachments/assets/c9d8d583-2e1d-47e7-a006-3e1b4bd6b69a" />
+
+
 # Gemini CLI 命令集合
 
 这是一个为 Google Gemini CLI 精心策划的自定义命令集合，旨在提高软件开发效率和规范性。
